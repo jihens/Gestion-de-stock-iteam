@@ -1,2 +1,2 @@
-# Gestion-de-stock-iteam
+# Gestion de stock 
 Python
